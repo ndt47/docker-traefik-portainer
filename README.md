@@ -10,7 +10,7 @@ Detailed explanation how to use this in my blog post:
 ## Run it
 
 ```
-git clone https://github.com/rafrasenberg/docker-traefik-portainer ./src
+git clone https://github.com/ndt47/docker-traefik-portainer ./src
 cd src/core
 docker compose up -d
 ```
